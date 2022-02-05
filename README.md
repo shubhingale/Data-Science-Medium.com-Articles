@@ -1,23 +1,5 @@
 # Data-Science-Medium.com-Articles
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/0" alt="Recent Article 0"> 
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/1" alt="Recent Article 1"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/2" alt="Recent Article 2"> 
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/3" alt="Recent Article 3"> 
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/4" alt="Recent Article 4"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/5" alt="Recent Article 5"> 
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/6" alt="Recent Article 6"> 
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/7" alt="Recent Article 7"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/8" alt="Recent Article 8"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/9" alt="Recent Article 9"> 
+ 
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/10"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/10" alt="Recent Article 10"> 
   
@@ -72,3 +54,22 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35"> 
   
  
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/0" alt="Recent Article 0"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/2" alt="Recent Article 2"> 
+
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/3" alt="Recent Article 3"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/4" alt="Recent Article 4"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/5" alt="Recent Article 5"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/6" alt="Recent Article 6"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/7" alt="Recent Article 7"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/8" alt="Recent Article 8"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/9" alt="Recent Article 9"> 
