@@ -72,4 +72,4 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35"> 
   
  
- 
+<a target="_blank" href="https://medium.com/@shubhingale/basics-of-machine-learning-282bfc267570"><img src="https://medium.com/@shubhingale/basics-of-machine-learning-282bfc267570" alt="Recent Article 35"> 
