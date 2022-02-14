@@ -19,6 +19,8 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/9" alt="Recent Article 9"> 
   
+ <a target="_blank" href="https://medium.com/@shubhingale/highlights-of-loss-function-in-machine-learning-3b50834b49a"><img src="https://medium.com/@shubhingale/highlights-of-loss-function-in-machine-learning-3b50834b49a" alt="Highlights of Loss Function in machine learning"> 
+  
   <a target="_blank" href="https://medium.com/@shubhingale/a-complete-journey-of-adaboost-algorithm-6df3da72e86"><img src="https://medium.com/@shubhingale/a-complete-journey-of-adaboost-algorithm-6df3da72e86" alt="A Complete Journey of Adaboost Algorithm"> 
 
 <a target="_blank" href="https://medium.com/@shubhingale/a-complete-journey-of-support-vector-machine-23e0d7a3c478"><img src="https://medium.com/@shubhingale/a-complete-journey-of-support-vector-machine-23e0d7a3c478" alt="A Complete Journey of Support Vector Machine"> 
