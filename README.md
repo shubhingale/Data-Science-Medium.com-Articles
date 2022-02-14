@@ -72,20 +72,6 @@
  <a target="_blank" href="https://medium.com/@shubhingale/implementation-of-k-fold-cross-validation-using-python-dc7a467e6519"><img src="https://medium.com/@shubhingale/implementation-of-k-fold-cross-validation-using-python-dc7a467e6519" alt="Implementation of K-fold Cross validation using Python">
   
  <a target="_blank" href="https://medium.com/@shubhingale/step-by-step-implementation-of-holdout-method-of-cross-validation-fd45c432e07a"><img src="https://medium.com/@shubhingale/step-by-step-implementation-of-holdout-method-of-cross-validation-fd45c432e07a" alt="Step by step implementation of Holdout method of Cross Validation">
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35">
-  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35">
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35">
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35">
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35">
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35">
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhingale/35" alt="Recent Article 35">
  
 <a target="_blank" href="https://medium.com/@shubhingale/how-to-implement-leave-one-out-cross-validation-using-python-4c0f5cb07baa"><img src="https://medium.com/@shubhingale/how-to-implement-leave-one-out-cross-validation-using-python-4c0f5cb07baa" alt="How to implement Leave-One-Out Cross Validation using Python?"> 
  
