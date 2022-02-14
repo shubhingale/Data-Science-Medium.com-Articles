@@ -59,7 +59,7 @@
       
  <a target="_blank" href="https://medium.com/@shubhingale/regularization-65d928fe69a8"><img src="https://medium.com/@shubhingale/regularization-65d928fe69a8" alt="Regularization">
        
- <a target="_blank" href="https://medium.com/@shubhingale/gradient-descent-insights-cc4a2b14d7e9"><img src="https://medium.com/@shubhingale/gradient-descent-insights-cc4a2b14d7e9" alt="Gradient Descent Insights">
+ <a target="_blank" href="https://medium.com/@shubhingale/gradient-descent-insights-cc4a2b14d7e9" alt="Gradient Descent Insights">
 
 <a target="_blank" href="https://medium.com/@shubhingale/a-complete-journey-of-linear-regression-67aef1362a7f"><img src="https://medium.com/@shubhingale/a-complete-journey-of-linear-regression-67aef1362a7f" alt="A complete Journey of Linear Regression"> 
  
